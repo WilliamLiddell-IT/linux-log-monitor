@@ -1,6 +1,6 @@
 # Linux Log Monitor
 
-A baah script that analyzes Linux Log files and generates a summary report.
+A bash script that analyzes Linux Log files and generates a summary report.
 
 ## Features
 
@@ -25,4 +25,4 @@ A baah script that analyzes Linux Log files and generates a summary report.
 
 ## Example Output
 
-See 'summary-output.png' for a sample report.
+See 'Automated Log Monitor Report.png' for a sample report.
