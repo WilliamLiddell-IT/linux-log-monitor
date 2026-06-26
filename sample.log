@@ -1,0 +1,9 @@
+INFO Server started
+INFO User login
+WARNING Disk space getting low
+ERROR Database connection failed
+INFO Backup completed
+FAILED Authentication attempt
+WARNING CPU usage high
+ERROR Service crashed
+INFO Server stopped
