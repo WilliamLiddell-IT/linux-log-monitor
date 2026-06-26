@@ -21,7 +21,7 @@ A baah script that analyzes Linux Log files and generates a summary report.
 ## Files
 
 - 'log_monitor.sh' - Bash script
--  'summary-output.png' - Example output screenshot
+-  'Automated Log Monitor Report.png' - Example output screenshot
 
 ## Example Output
 
